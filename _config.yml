@@ -95,7 +95,7 @@ pagination:
 footer_text: '© 2023 Sebastián Valencia'
 admin_name: 'Sebastián Valencia'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
