@@ -20,7 +20,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ajinomano'
 github_username: 'sebastiandevops'
-medium_username: 'sebasvalencia726.medium.com'
+medium_username: ''
+cv_url: 'https://sebastiandevops.github.io/cv/'
 
 # Build settings
 markdown: kramdown
@@ -37,7 +38,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: false
+  debug: true
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
