@@ -27,7 +27,11 @@ cv_url: 'sebastiandevops.github.io/cv/'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
