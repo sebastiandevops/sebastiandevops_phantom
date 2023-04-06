@@ -6,7 +6,7 @@ permalink: /about/
 ## Summary:
 
 <p align="justify">I am a DevOps Engineer with 2 years of experience designing and implementing CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps. I have experience in implementing all stages of the DevOps cycle, including code integration, static analysis, dependency checks, compilation, packaging, and artifact repository publication. I have also configured the deployment stages in development, certification, and production environments, implemented acceptance, performance, and end-to-end testing, and managed the rollback stage.</p>
-
+<br/>
 
 <!-- There should be whitespace between paragraphs. -->
 <!---->
@@ -61,10 +61,11 @@ permalink: /about/
 [TERRAFORM_URL]: https://www.terraform.io
 [JMETER_URL]: https://jmeter.apache.org
 
-## Proeficient in:
+### Proeficient in:
+<br/>
 
-|[![Azure DevOps](/img/about/azure-devops.svg){:height="50px" width="50px"}][AZURE_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![AWS](/img/about/aws.svg){:height="50px" width="50px"}][AWS_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![GIT](/img/about/git.svg){:height="50px" width="50px"}][GIT_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Linux](/img/about/linux.svg){:height="50px" width="50px"}][LINUX_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Python](/img/about/python.svg){:height="50px" width="50px"}][PYTHON_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Jenkins](/img/about/jenkins.svg){:height="50px" width="50px"}][JENKINS_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Docker](/img/about/docker.svg){:height="50px" width="50px"}][DOCKER_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Kubernetes](/img/about/kubernetes.svg){:height="50px" width="50px"}][KUBERNETES_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|[![SonarQube](/img/about/sonarqube.svg){:height="50px" width="50px"}][SONARQUBE_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Terraform](/img/about/terraform.svg){:height="50px" width="50px"}][TERRAFORM_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Apache JMeter](/img/about/apachejmeter.svg){:height="50px" width="50px"}][JMETER_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|[![Azure DevOps](/img/about/azure-devops.svg){:height="50px" width="50px"}][AZURE_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![AWS](/img/about/aws.svg){:height="50px" width="50px"}][AWS_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![GIT](/img/about/git.svg){:height="50px" width="50px"}][GIT_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Linux](/img/about/linux.svg){:height="50px" width="50px"}][LINUX_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Python](/img/about/python.svg){:height="50px" width="50px"}][PYTHON_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Jenkins](/img/about/jenkins.svg){:height="50px" width="50px"}][JENKINS_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Docker](/img/about/docker.svg){:height="50px" width="50px"}][DOCKER_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Kubernetes](/img/about/kubernetes.svg){:height="50px" width="50px"}][KUBERNETES_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|[![SonarQube](/img/about/sonarqube.svg){:height="50px" width="50px"}][SONARQUBE_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Terraform](/img/about/terraform.svg){:height="50px" width="50px"}][TERRAFORM_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![Apache JMeter](/img/about/apachejmeter.svg){:height="50px" width="50px"}][JMETER_URL]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-
+<br/>
 If you want to see my full curriculum vitae, you can access [here](https://sebastiandevops.github.io/cv/).
